@@ -4,10 +4,10 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 
 
+
 const Home = () => {
 
-
-
+ 
 
   return <>
     <section id="home" className="hero is-black is-fullheight">

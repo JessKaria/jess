@@ -108,7 +108,7 @@ const Projects = () => {
                     <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/17.svg?v=1617123935" />
                   </div>
                   <div className="column">
-                    <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/4.svg?v=1617123935" />
+                    <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/mongoose_a221a540-56a9-4070-aa02-aebaa3e8973d.svg?v=1617967254" />
                   </div>
                   <div className="column">
                     <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/23.svg?v=1617123935" />
