@@ -31,7 +31,7 @@ const Interests = () => {
                   <div className="column is-12 post">
                     <article className="columns featured">
                       <div className="column is-7 post-img ">
-                        <img src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/Untitled_design_5e38ca1d-aeea-41e0-a28f-e2f0c970b670.png?v=1617214465" alt="" />
+                        <img src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/Untitled_design_502495d0-6a6f-408e-b247-8875f5c00996.jpg?v=1617969044" alt="bauce brothers" />
                       </div>
                       <div className="column is-5 featured-content va">
                         <div>
