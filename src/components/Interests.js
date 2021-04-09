@@ -6,7 +6,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 const Interests = () => {
   return <>
     <div>
-      <section id="projects" className="hero is-black is-medium">
+      <section id="interests" className="hero is-black is-medium">
         <div className="hero-body">
           <div className="container">
             <div className="columns  is-vcentered reverse-columns">
@@ -38,7 +38,9 @@ const Interests = () => {
                           <h3 className="heading post-category">HOT SAUCE CLUB</h3>
                           <h2 className="title is-1">Bauce Brothers</h2>
                           <hr className="content-divider" />
-                          <p className="subtitle is-4">I recently started a hot sauce subscription service, with a close friend and hot sauce enthusiast. Our mission is to bring delicious, small-batch craft hot sauce to the masses, we do this by only working with local hot sauce alchemists that make all vegan, all natural hot sauces with no added preservatives. Each sauce selected goes through a rigorous testing program including blind tasting & flavour profiling to ensure the only thing that gets stung is your taste buds.</p>
+                          <p className="subtitle is-4">I recently started a hot sauce subscription service, with a close friend and hot sauce enthusiast. 
+                          
+                          Our mission is to bring delicious, small-batch craft hot sauce to the masses, we do this by only working with local hot sauce alchemists that make all vegan, all natural hot sauces with no added preservatives. Each sauce selected goes through a rigorous testing program including blind tasting & flavour profiling to ensure the only thing that gets stung is your taste buds.</p>
                           <a href="https://baucebrothers.com/" id="yellow-buton" className="button is-yellow">sauce.</a>
                         </div>
                       </div>
