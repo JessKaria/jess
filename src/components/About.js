@@ -18,7 +18,7 @@ const About = () => {
           is-5-fullhd is-offset-1-fullhd" data-aos="fade-right">
               <div>
                 <h1 className="title">bio.</h1>
-                <p className="subtitle is-3">
+                <p id="about-body" className="subtitle is-3">
                   I'm a junior <strong>full-stack developer </strong>with previous experience delivering <strong>digital
                 marketing</strong> campaigns for large enterprise clients including <strong>Microsoft, Worldpay and Accenture</strong>.
 
