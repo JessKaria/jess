@@ -23,6 +23,46 @@ const Projects = () => {
         </div>
       </section>
 
+      <section id="parallax-0" className="hero is-medium is-black">
+        <div className="hero-body">
+          <div className="container">
+            <div className="columns">
+              <div className="column is-6">
+                <h1 className="title is-1 ">Dashboard | Shopify Dashboard</h1>
+                <hr className="content-divider" />
+                <h2 className="subtitle is-4">For my side business, Bauce Brothers I have built a custom dashboard by manipulating the Shopify Rest API to reveal information that was previously hidden in downloadable CSV files or nested in disapparate systems.</h2>
+                <div className="columns is-mobile">
+                  <div className="column">
+                    <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/5.svg?v=1617123935" />
+                  </div>
+                  <div className="column">
+                    <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/22.svg?v=1617123935" />
+                  </div>
+                  <div className="column">
+                    <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/13.svg?v=1617123935" />
+                  </div>
+                  <div className="column">
+                    <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/17.svg?v=1617123935" />
+                  </div>
+                  <div className="column">
+                    <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/mongoose.svg?v=1617126582" />
+                  </div>
+                  <div className="column">
+                    <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/10.svg?v=1617123935" />
+                  </div>
+                  <div className="column">
+                    <img id="icons" src="https://cdn.shopify.com/s/files/1/0306/1016/1723/files/12.svg?v=1617123935" />
+                  </div>
+
+                </div>
+
+                <a href="https://github.com/JessKaria/shopify-dashboard" id="yellow-buton" className="button is-yellow">code.</a><a href="https://jesskaria.github.io/shopify-dashboard/" id="yellow-buton" className="button is-yellow">app.</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section id="parallax-1" className="hero is-medium is-black">
         <div className="hero-body">
           <div  className="container">
